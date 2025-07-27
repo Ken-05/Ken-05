@@ -10,7 +10,7 @@
 <h2>Software Engineering Projects:</h2>
 
 - <b>HiFi Online Store Application</b>
-  - [An Android-based e-commerce app for browsing and purchasing electronics](https://github.com/Ken-05/thms)
+  - [An Android-based e-commerce app for browsing and purchasing electronics](https://github.com/Ken-05/HiFi-Online-Store-App)
 
 
 <h2>Certification</h2>
