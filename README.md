@@ -16,6 +16,7 @@
 <h2>Certification</h2>
 
 - Google Cloud Professional Machine Learning Engineer
+- FreeCodeCamp Machine Learning with Python
   
 
 
