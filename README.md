@@ -13,7 +13,7 @@
   - [An Android-based e-commerce app for browsing and purchasing electronics](https://github.com/Ken-05/HiFi-Online-Store-App)
 
 
-<h2>Certification</h2>
+<h2>Certifications</h2>
 
 - Google Cloud Professional Machine Learning Engineer
 - FreeCodeCamp Machine Learning with Python
