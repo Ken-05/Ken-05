@@ -4,8 +4,8 @@
 
 - <b>Tractor Health Monitoring System (Arduino, Raspberry Pi, GCP)</b>
   - [End to End Bidirectional Edge to Cloud MLOps Pipeline using containerized pipeline components](https://github.com/Ken-05/thms)
-- <b>xxx</b>
-  - [xxx](https://github.com/Ken-05/thms) <b>
+<!-- - <b>xxx</b> -->
+<!--  - [xxx](https://github.com/Ken-05/thms) <b> -->
 
 <h2>Software Engineering Projects:</h2>
 
