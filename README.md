@@ -3,7 +3,7 @@
 <h2>👨‍💻 Machine Learning Engineering Projects:</h2>
 
 - <b>Tractor Health Monitoring System (Arduino, Raspberry Pi, GCP)</b>
-  - [End to End Bidirectional Edge to Cloud MLOps Pipeline using containerized pipeline components](https://github.com/Ken-05/thms)
+  - [An End to End Edge-Cloud MLOps Pipeline with containerized pipeline components](https://github.com/Ken-05/thms)
 <!-- - <b>xxx</b> -->
 <!--  - [xxx](https://github.com/Ken-05/thms) <b> -->
 
